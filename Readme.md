@@ -1,6 +1,6 @@
-public class Main {
-   
+public class Main { 
    public static void main(String[] args) {
+   
         double startBalance = 355.5; // начальный баланс клиента
         double amount = 999.9; // сумма пополнения
 
